@@ -1,1 +1,12 @@
-
+body{
+    background-color: rgb(96, 235, 103);
+}
+hearder{
+    background-color: aliceblue;
+}
+main{
+    background-color: rgb(134, 158, 109);
+}
+section{
+    background-color: rgb(108, 209, 41);
+}
